@@ -3,9 +3,9 @@
 /**
  * @wordpress-plugin
  * Plugin Name:       Kntnt Logout Redirect to Home Page
- * Plugin URI:        https://www.kntnt.com/
+ * Plugin URI:        https://github.com/Kntnt/kntnt-logout-redirect-to-home-page
  * Description:       Redirects users to front page on logout.
- * Version:           1.0.0
+ * Version:           1.0.1
  * Author:            Thomas Barregren
  * Author URI:        https://www.kntnt.com/
  * License:           GPL-3.0+
